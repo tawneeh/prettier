@@ -1,0 +1,22 @@
+{
+  "name": "prettier-lcnw",
+  "version": "1.0.0",
+  "description": "LCNW Prettier Config",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawneeh/prettier.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Tawnee Harris <tharris@lcnw.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tawneeh/prettier/issues"
+  },
+  "homepage": "https://github.com/tawneeh/prettier#readme"
+}
