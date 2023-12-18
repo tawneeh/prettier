@@ -1,6 +1,6 @@
 {
   "name": "prettier-lcnw",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "LCNW Prettier Config",
   "main": "index.json",
   "scripts": {
